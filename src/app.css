@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: #26a69a;
+}
+
+h5{
+    text-align: center;
+    color: #26a69a;
+}
+
+input, select, textarea{
+    color: #26a69a;
+    font-weight: 600;
+    font-size: 25px !important;
+    text-align: center;
+}
+
+.searchBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-bottom: 30px;
+}
+
+.loading{
+    display: block;
+    margin: auto;
+    color: #26a69a;
+}
+
+.cardCon{
+    display: flex;
+	flex-direction: column;
+    justify-content: 'space-around'
+}
